@@ -263,7 +263,7 @@ This will ask you to place your autopilot on each edge.</value>
     <value>$this</value>
   </data>
   <data name="&gt;&gt;lineSeparator2.ZOrder" xml:space="preserve">
-    <value>3</value>
+    <value>5</value>
   </data>
   <data name="BUT_level.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -291,6 +291,7 @@ This will ask you to place your autopilot on each edge.</value>
   </data>
   <data name="&gt;&gt;BUT_level.ZOrder" xml:space="preserve">
     <value>2</value>
+  <\data>
   <data name="BUT_simpleAccelCal.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
