@@ -151,7 +151,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;label5.ZOrder" xml:space="preserve">
-    <value>6</value>
+    <value>7</value>
   </data>
   <data name="label4.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -182,7 +182,7 @@ This will ask you to place your autopilot on each edge.</value>
     <value>$this</value>
   </data>
   <data name="&gt;&gt;label4.ZOrder" xml:space="preserve">
-    <value>5</value>
+    <value>6</value>
   </data>
   <data name="lbl_Accel_user.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -209,7 +209,7 @@ This will ask you to place your autopilot on each edge.</value>
     <value>$this</value>
   </data>
   <data name="&gt;&gt;lbl_Accel_user.ZOrder" xml:space="preserve">
-    <value>2</value>
+    <value>3</value>
   </data>
   <data name="BUT_calib_accell.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -236,7 +236,7 @@ This will ask you to place your autopilot on each edge.</value>
     <value>$this</value>
   </data>
   <data name="&gt;&gt;BUT_calib_accell.ZOrder" xml:space="preserve">
-    <value>3</value>
+    <value>4</value>
   </data>
   <data name="lineSeparator2.Location" type="System.Drawing.Point, System.Drawing">
     <value>7, 30</value>
@@ -263,7 +263,7 @@ This will ask you to place your autopilot on each edge.</value>
     <value>$this</value>
   </data>
   <data name="&gt;&gt;lineSeparator2.ZOrder" xml:space="preserve">
-    <value>4</value>
+    <value>3</value>
   </data>
   <data name="BUT_level.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -290,7 +290,7 @@ This will ask you to place your autopilot on each edge.</value>
     <value>$this</value>
   </data>
   <data name="&gt;&gt;BUT_level.ZOrder" xml:space="preserve">
-    <value>1</value>
+    <value>2</value>
   <data name="BUT_simpleAccelCal.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
