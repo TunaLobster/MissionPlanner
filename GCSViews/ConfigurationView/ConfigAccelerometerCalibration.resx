@@ -291,6 +291,32 @@ This will ask you to place your autopilot on each edge.</value>
   </data>
   <data name="&gt;&gt;BUT_level.ZOrder" xml:space="preserve">
     <value>1</value>
+  <data name="BUT_simpleAccelCal.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="BUT_simpleAccelCal.Location" type="System.Drawing.Point, System.Drawing">
+    <value>188, 168</value>
+  </data>
+  <data name="BUT_simpleAccelCal.Size" type="System.Drawing.Size, System.Drawing">
+    <value>102, 21</value>
+  </data>
+  <data name="BUT_simpleAccelCal.TabIndex" type="System.Int32, mscorlib">
+    <value>84</value>
+  </data>
+  <data name="BUT_simpleAccelCal.Text" xml:space="preserve">
+    <value>Calibrate Level</value>
+  </data>
+  <data name="&gt;&gt;BUT_simpleAccelCal.Name" xml:space="preserve">
+    <value>BUT_simpleAccelCal</value>
+  </data>
+  <data name="&gt;&gt;BUT_simpleAccelCal.Type" xml:space="preserve">
+    <value>MissionPlanner.Controls.MyButton, MissionPlanner.Controls, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;BUT_simpleAccelCal.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;BUT_simpleAccelCal.ZOrder" xml:space="preserve">
+    <value>1</value>
   </data>
   <data name="label1.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
